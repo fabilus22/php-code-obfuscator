@@ -6,7 +6,7 @@ Goal is to make obfuscated code to function after it is obfuscated supporting mu
 If anyone want to check and test it then its hosted at
 https://php-obf.com/
 
-##License:
+## License:
 This website is licensed under MIT License.
 
 ## Requirements:
