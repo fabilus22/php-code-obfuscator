@@ -61,7 +61,7 @@ try {
 		<div style="float:left;width:70%;">
 			<div style="height:80px;line-height:80px;font-size:17px;">
 				This is a GitHub Project and you can get complete source from there
-				<a target="_blank" href="">GITHUB</a>
+				<a target="_blank" href="https://github.com/fabilus22/php-code-obfuscator">GITHUB</a>
 			</div>
 		</div>
 		<div style="float:right;width:30%;text-align:right;">
